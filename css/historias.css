@@ -59,3 +59,8 @@ main {
 ion-icon {
     font-size: 64px;
   }
+
+img {
+    font-size: 64px;
+    gap:1.0rem;
+}
