@@ -72,3 +72,13 @@ section .ultimop {
     color: rgb(10, 28, 43);
     
 }
+
+@media (max-width: 400px){
+    nav li {
+        display: block;
+        flex-direction: column;
+        line-height: 1;
+        margin: 0 auto;
+        text-align: center;
+    } 
+}
