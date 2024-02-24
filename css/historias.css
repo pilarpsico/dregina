@@ -62,5 +62,6 @@ ion-icon {
 
 img {
     font-size: 64px;
-    gap:1.0rem;
+   
+    padding:1.0rem;
 }
