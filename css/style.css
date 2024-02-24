@@ -75,22 +75,23 @@ footer {
         color:#2a0074
     }
 
+   
     nav li {
-        display: flex;
+        display: block;
         flex-direction: column;
         line-height: 1;
         margin: 0 auto;
         text-align: center;
+    } 
+        section {
+            width: 100%;
+            margin:0 auto;
+        }
+    
+        p {
+            font-size: 1.6rem;
+          
+            
+            
+        }
     }
-    section {
-        width: 100%;
-        margin:0 auto;
-    }
-
-    p {
-        font-size: 1.6rem;
-      
-        
-        
-    }
-}
