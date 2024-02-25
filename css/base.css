@@ -21,7 +21,6 @@ h2 {
     color: #2a0074;
     margin-top: 2.4rem;
     margin-bottom: 2.4rem;
-    
 }
 
 nav {
@@ -35,34 +34,38 @@ nav img {
     width: 7.4rem;
 
 }
-main{
-    width: 80%;
-    margin:0 auto;
 
+main {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 3.6rem;
+    margin-bottom: 2.4rem;
 }
 
 p {
     font-size: 1.6rem;
-    padding: 0.8rem;
-    line-height: 1.5;
     text-align: center;
-    margin: 2.6rem auto 0;
-    color:rgb(10, 28, 43);
-   
-}
-    section {
-        padding-bottom: 2.4rem;
-        font-size: 1.4rem;
-        font-style: italic;
+    line-height: 1.5;
+    color:rgb(43, 58, 70);
+    padding: 0.8rem;
 }
 
-section p {
-    color: rgb(12, 73, 12);
+.italeweig {
+    font-style: italic;
+    font-weight: 800;
 }
 
-section .ultimop {
-    color: rgb(10, 28, 43);
-    
+.font {
+    font-size: 1.8rem;
+    letter-spacing: 0.1;
+}
+
+.negrito {
+    font-weight: 800;
+}
+
+.italic {
+    font-style: italic;
 }
 
 
@@ -73,18 +76,25 @@ footer {
     text-align: center;
 }
 
-@media (max-width: 400px){
+
+@media (max-width: 400px) {
     body {
         max-width: 100%;
     }
-    
+
+    h1 {
+        font-size: 3.0rem;
+        color:#2a0074
+    }
+
     nav {
         width: 100%;
     }
-    section{
+
+    main {
         width: 100%;
-        
     }
+
     footer {
         width: 80%;
         display: flex;
