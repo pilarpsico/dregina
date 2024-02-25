@@ -45,12 +45,14 @@ nav img {
     width: 6.4rem;
     padding: 0.8rem;
 }
+main {
+    margin-top: 2.4rem;
+}
 p {
     font-size: 1.6rem;
     padding: 1.0rem;
     line-height: 1.5;
     text-align: center;
-    margin-top: 2.4rem;
     color:aliceblue;
 }
 footer {
