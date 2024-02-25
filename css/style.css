@@ -41,7 +41,7 @@ nav {
 }
 .icons {
     margin: 0 auto;
-    border: 1px solid red;
+   
     justify-content: center;
 }
 .icons2 {
@@ -52,7 +52,7 @@ nav {
 
 nav img {
     
-    width: 6.4rem;
+    width: 10.4rem;
     padding: 0.8rem;
    
 }
@@ -95,7 +95,7 @@ footer {
 .icons2 {
     margin: 0 auto;
     gap: 1.0rem;
-    border: 1px solid yellow;
+   
 
 }
     
