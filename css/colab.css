@@ -55,6 +55,8 @@ figcaption {
 }
 main {
     width: 80%;
+    padding-top: 2.4rem;
+    padding-bottom: 2.4rem;
 
 }
 .contato {
@@ -64,7 +66,7 @@ main {
 p {
     font-size: 2.0rem;
     margin: 3.6rem auto 2.4rem auto;
-    color: rgb(33, 4, 61)
+    color: rgb(52, 15, 87)
 }
 
 @media (min-width: 400px) {
