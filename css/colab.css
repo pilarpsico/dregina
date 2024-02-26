@@ -24,30 +24,35 @@ h3 {
     
 }
 
-nav a{
-    color: white;
-    text-decoration: none;
-}
-nav ul{
-    
-    width: 70%;
-    line-height: 1.5;
-    margin:0 auto;
-}
 
-nav li {
+nav {
+    width: 80%;
+    margin: 0 auto;
     display: flex;
     justify-content: center;
-    align-items: center;
-    width: 16.0rem;
-    font-size: 1.6rem;
-    margin: 0 auto;
-    border: 1px solid rgb(207, 118, 235); 
-    border-radius: .8rem;
-    background-color: rgb(144, 47, 173);
-    padding: .6rem;  
 }
 
+nav img {
+    width: 9.4rem;
+
+}
+section {
+    width: 80%;
+    margin: 0 auto;
+    
+
+}
+section img {
+    width: 7.4rem;
+    display: flex;
+    margin: 0 auto;
+}
+figcaption {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
 main {
     width: 80%;
 
