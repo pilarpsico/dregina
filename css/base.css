@@ -41,7 +41,9 @@ main {
     margin-top: 3.6rem;
     margin-bottom: 2.4rem;
 }
-
+main + a {
+    width: 6.4rem;
+}
 p {
     font-size: 1.6rem;
     text-align: center;
