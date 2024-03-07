@@ -103,7 +103,7 @@ footer {
 
 @media (max-width: 400px) {
     body {
-        width: 95%;
+        width: 100%;
     }
 
     main {
