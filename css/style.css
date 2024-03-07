@@ -3,7 +3,7 @@
     padding: 0;
 }
 :root {
-    max-width: 100%;
+    width: 100%;
     font-size: 62.5%;
 }
 body {
@@ -37,6 +37,7 @@ nav {
     width: 51%;
     margin: 0 auto;
     text-align: center;
+    border: 1px solid red;
     
     
     
@@ -53,7 +54,7 @@ nav ul li {
     align-items: center;
 }
 
-/*
+
 .icons {
     margin: 0 auto;
    
@@ -63,7 +64,7 @@ nav ul li {
     margin: 0 auto;
     justify-content: center;
 }
-*/
+
 
 nav img {
     
@@ -122,21 +123,21 @@ footer {
 @media (min-width: 401px) and (max-width: 1200px) {
 
 nav {
-    display: flex;
-    justify-content: center;
     width: 51%;
     text-align: center;
-} 
-nav ul {
     display: inline;
-    margin: 0 auto;
-}   
-nav ul li {
-    margin: 0 auto;
+    margin:0 auto;
     justify-content: center;
-    align-items: center;
+        
+} 
+  .icons {
+    margin:0 auto;
+
+  }
+  
+ 
 }
-}
+
 
 
     
