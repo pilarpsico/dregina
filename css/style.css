@@ -44,7 +44,7 @@ nav {
 } 
     
 nav ul {
-    display: inline-block;
+   
     margin: 0 auto;
     
 }   
@@ -113,31 +113,9 @@ footer {
     }
       
     nav {
-        width: 60%;
+        width: 100%;
     }
     nav img {
         width: 9.4rem;
     }
 }
-
-@media (min-width: 401px) and (max-width: 1200px) {
-
-nav {
-    width: 51%;
-    text-align: center;
-    display: inline;
-    margin:0 auto;
-    justify-content: center;
-        
-} 
-  .icons {
-    margin:0 auto;
-
-  }
-  
- 
-}
-
-
-
-    
