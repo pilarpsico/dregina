@@ -101,13 +101,14 @@ footer {
     color:rgb(115, 23, 201)
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
     body {
         width: 100%;
     }
 
     main {
-        width: 95%
+        width: 90%
+       
     }
       
     nav {
