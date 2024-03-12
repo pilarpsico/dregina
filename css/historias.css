@@ -46,10 +46,10 @@ main img {
 div {
     padding: 0.4rem;
 }
-main a img {
+
+   main > div > a img {
     vertical-align: middle;
 }
-
 
 
 @media (max-width: 400px) {
