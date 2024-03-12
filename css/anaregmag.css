@@ -61,9 +61,9 @@ footer {
     text-align: center;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
     body {
-        max-width: 100%;
+        width: 100%;
     }
 
     h1 {
@@ -79,6 +79,10 @@ footer {
         margin: 0 auto;
         text-align: center;
     } 
+    main {
+        width: 95%;
+        margin: 0 auto;
+    }
         section {
             width: 100%;
             margin:0 auto;
