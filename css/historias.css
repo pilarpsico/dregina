@@ -34,7 +34,7 @@ nav img {
 main {
     font-size: 1.6rem;
     margin-top: 2.4rem;
-    
+      
 }
 main a {
     color:#2a0074;
@@ -46,6 +46,10 @@ main img {
 div {
     padding: 0.4rem;
 }
+main a img {
+    vertical-align: middle;
+}
+
 
 
 @media (max-width: 400px) {
