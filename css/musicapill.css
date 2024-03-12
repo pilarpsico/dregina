@@ -38,15 +38,16 @@ nav img {
 main{
     width: 80%;
     margin:0 auto;
+    margin-top: 1.6rem;
 
 }
 
 p {
     font-size: 1.6rem;
-    padding: 0.8rem;
+    padding: 0.5em;
     line-height: 1.5;
     text-align: center;
-    margin: 2.6rem auto 0;
+    
     color:rgb(10, 28, 43);
    
 }
